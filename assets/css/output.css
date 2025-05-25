@@ -582,6 +582,10 @@ video {
   place-content: space-evenly;
 }
 
+.items-center {
+  align-items: center;
+}
+
 .justify-center {
   justify-content: center;
 }
