@@ -587,6 +587,22 @@ video {
   background-color: rgb(244 244 245 / var(--tw-bg-opacity));
 }
 
+.bg-\[url\(\'\.\.\/img\/pexels-rezwan-1216589\.jpg\'\)\] {
+  background-image: url('../img/pexels-rezwan-1216589.jpg');
+}
+
+.bg-cover {
+  background-size: cover;
+}
+
+.bg-center {
+  background-position: center;
+}
+
+.bg-no-repeat {
+  background-repeat: no-repeat;
+}
+
 .p-9 {
   padding: 2.25rem;
 }
