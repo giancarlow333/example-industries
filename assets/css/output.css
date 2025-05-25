@@ -635,6 +635,10 @@ video {
   background-color: rgb(244 244 245 / var(--tw-bg-opacity));
 }
 
+.bg-\[url\(\'\.\.\/img\/pexels-cookiecutter-1148820\.jpg\'\)\] {
+  background-image: url('../img/pexels-cookiecutter-1148820.jpg');
+}
+
 .bg-\[url\(\'\.\.\/img\/pexels-pixabay-159298\.jpg\'\)\] {
   background-image: url('../img/pexels-pixabay-159298.jpg');
 }
